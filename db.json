@@ -1,0 +1,87 @@
+{
+  "allpost": [
+    {
+      "id": "2",
+      "title": "Updated Post Title",
+      "body": "This is the second post."
+    },
+    {
+      "id": "18",
+      "title": "Updated Post Title",
+      "body": "This is the 18th post."
+    },
+    {
+      "id": "17",
+      "title": "Put and updaing....",
+      "body": "This is the 18th post."
+    },
+    {
+      "id": "15",
+      "title": "Updated Post Title",
+      "body": "This is the 18th post."
+    },
+    {
+      "id": "6",
+      "title": "Happy birthday",
+      "body": "This is the 18th post."
+    },
+    {
+      "id": "23",
+      "title": "sayel chukhaeyo palliya",
+      "body": "This is the 19th birthday the latest birthday the updated one."
+    },
+    {
+      "id": "459a",
+      "title": "first title",
+      "body": "its body"
+    },
+    {
+      "id": "3",
+      "title": "gdsgg",
+      "body": "seetwtwetet"
+    },
+    {
+      "id": "3",
+      "title": "gdsgg",
+      "body": "seetwtwetet"
+    },
+    {
+      "id": "3",
+      "title": "gdsgg",
+      "body": "seetwtwetet"
+    },
+    {
+      "id": "3",
+      "title": "gdsgg",
+      "body": "seetwtwetet"
+    },
+    {
+      "id": "-1",
+      "title": "dsgddsfdffgs",
+      "body": "sfdfsdfsd"
+    },
+    {
+      "id": "-1",
+      "title": "dsgddsfdffgs",
+      "body": "sfdfsdfsd"
+    },
+    {
+      "id": "-1",
+      "title": "dsgddsfdffgs",
+      "body": "sfdfsdfsd"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "title": "Updated Post Title"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com"
+    }
+  ]
+}
